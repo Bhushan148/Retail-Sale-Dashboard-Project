@@ -18,13 +18,6 @@ In this project, I developed an **insightful Retail Sale Dashboard** using **Pow
 
 ---
 
-## 📂 **Repository**
-
-🔗 **Check out the project on GitHub and access the files here:**  
-[**Retail-Sale-Dashboard**](https://github.com/YourGitHubUsername/Retail-Sale-Dashboard) 📁
-
----
-
 ## 📝 **Project Description**
 
 ### **Objective**
@@ -33,7 +26,7 @@ To create an **insightful Retail Sale Dashboard** that analyzes retail sales dat
 ### **Project Steps**
 
 1. ### **Data Collection** 📦
-    - **Dataset Acquisition:** Sourced the orders dataset from **[Kaggle](https://www.kaggle.com/)**, containing comprehensive information about retail sales transactions.
+    - **Dataset Acquisition:** Sourced the orders dataset from **[Kaggle](https://github.com/Bhushan148/Retail-Sale-Dashboard-Project/blob/main/Project%20Resource/Dataset.csv)**, containing comprehensive information about retail sales transactions.
 
 2. ### **Data Import and Database Setup** 🗄️
     - **Data Import:** Imported the dataset into a **MySQL database** for efficient data management and querying.
@@ -97,13 +90,17 @@ To create an **insightful Retail Sale Dashboard** that analyzes retail sales dat
 
 ## 🖼️ **Dashboard Visualization**
 
-![Sales Overview](https://via.placeholder.com/800x400.png?text=Sales+Overview)
+![Sales Trends](https://github.com/Bhushan148/Retail-Sale-Dashboard-Project/blob/main/Project%20Resource/Page%201.png)
+
+*Example of the Home Page section of the dashboard.*
+
+![Sales Overview](https://github.com/Bhushan148/Retail-Sale-Dashboard-Project/blob/main/Project%20Resource/Page%202.png)
 
 *Example of the Sales Overview section of the dashboard.*
 
-![Sales Trends](https://via.placeholder.com/800x400.png?text=Sales+Trends)
+![Sales Trends](https://github.com/Bhushan148/Retail-Sale-Dashboard-Project/blob/main/Project%20Resource/Page%203.png)
 
-*Example of the Sales Trends section of the dashboard.*
+*Example of the Profit Analysis section of the dashboard.*
 
 ---
 
@@ -124,20 +121,12 @@ This project successfully demonstrates the ability to handle **end-to-end data a
 
 ---
 
-## 📚 **Additional Resources**
-
-- **Kaggle Orders Dataset:** [Link to Dataset](https://www.kaggle.com/datasets)
-- **Power BI Documentation:** [Power BI Docs](https://docs.microsoft.com/en-us/power-bi/)
-- **MySQL Documentation:** [MySQL Docs](https://dev.mysql.com/doc/)
-
----
-
 ## 👨‍💻 **Project Developed By**
 
 **Bhushan Gawali** - Data Analyst  
-📧 **Email:** [bhushan.gawali@example.com](mailto:bhushan.gawali@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/bhushangawali](https://www.linkedin.com/in/bhushangawali)  
-🐙 **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)
+📧 **Email:** [DK2111@digikull.com](mailto:DK2111@digikull.com)  
+🔗 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/bhushan-gawali-97b645233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🐙 **GitHub:** [Github](https://github.com/Bhushan148)
 
 ---
 
@@ -149,8 +138,6 @@ This project successfully demonstrates the ability to handle **end-to-end data a
 
 ## 📌 **Quick Links**
 
-- **Complete Dashboard:** [View on Power BI Service](https://app.powerbi.com/)
-- **Source Code & Files:** [Retail-Sale-Dashboard Repository](https://github.com/YourGitHubUsername/Retail-Sale-Dashboard)
 - **Live Dashboard Demo:** [Watch Video](https://www.youtube.com/)
 
 ---
@@ -179,12 +166,6 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
----
-
-## 📜 **License**
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
