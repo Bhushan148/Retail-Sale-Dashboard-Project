@@ -173,8 +173,7 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 If you have any questions or need further information, feel free to reach out:
 
-- **Email:** [bhushan.gawali@example.com](mailto:bhushan.gawali@example.com)
-- **LinkedIn:** [linkedin.com/in/bhushangawali](https://www.linkedin.com/in/bhushangawali)
+- **Whatsapp:** [Whatsapp](https://wa.me/qr/45BQWP6TQQ24M1)
 
 ---
 
